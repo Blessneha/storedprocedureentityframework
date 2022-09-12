@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Storedproceduredbfirst123\Storedproceduredbfirst123\bin\Debug\Storedproceduredbfirst123.exe.config
+C:\Users\HP\source\repos\Storedproceduredbfirst123\Storedproceduredbfirst123\bin\Debug\Storedproceduredbfirst123.exe
+C:\Users\HP\source\repos\Storedproceduredbfirst123\Storedproceduredbfirst123\bin\Debug\Storedproceduredbfirst123.pdb
+C:\Users\HP\source\repos\Storedproceduredbfirst123\Storedproceduredbfirst123\bin\Debug\EntityFramework.dll
+C:\Users\HP\source\repos\Storedproceduredbfirst123\Storedproceduredbfirst123\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\Storedproceduredbfirst123\Storedproceduredbfirst123\bin\Debug\EntityFramework.xml
+C:\Users\HP\source\repos\Storedproceduredbfirst123\Storedproceduredbfirst123\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\Storedproceduredbfirst123\Storedproceduredbfirst123\obj\Debug\Storedproceduredbfirst123.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Storedproceduredbfirst123\Storedproceduredbfirst123\obj\Debug\Storedproceduredbfirst123.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Storedproceduredbfirst123\Storedproceduredbfirst123\obj\Debug\Storedproceduredbfirst123.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Storedproceduredbfirst123\Storedproceduredbfirst123\obj\Debug\Storedproceduredbfirst123.csproj.CopyComplete
+C:\Users\HP\source\repos\Storedproceduredbfirst123\Storedproceduredbfirst123\obj\Debug\Storedproceduredbfirst123.exe
+C:\Users\HP\source\repos\Storedproceduredbfirst123\Storedproceduredbfirst123\obj\Debug\Storedproceduredbfirst123.pdb
